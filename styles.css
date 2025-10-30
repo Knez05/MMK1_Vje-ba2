@@ -1,6 +1,6 @@
 @font-face {
   font-family: "MrDafoe-Regular";
-  src: url("./MrDafoe-Regular/MrDafoe-Regular.ttf") format("truetype");
+  src: url("/MrDafoe-Regular/MrDafoe-Regular.ttf") format("truetype");
 }
 
 ul {list-style-type: circle;}
@@ -69,4 +69,5 @@ ol, ul {
 
 body {
 	background-color: rgb(2, 20, 16);
+
 }
